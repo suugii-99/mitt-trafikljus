@@ -1,0 +1,55 @@
+body{
+    background-color: grey;
+}
+.container1{
+    background-color: white; height: 500px; width: 175px;
+    margin-left: 30%; margin-right: 30%; display: flex; justify-content: center; flex-direction: column; align-items: center;
+}
+
+.box1 {
+    background-color: red; height: 100px; width: 100px; padding: 20px; border: 10px solid darkred;
+}
+
+.box1,.box2,.box3 {
+    margin-top: 5px; margin-bottom: 2,5px;
+}
+.box2 {
+background-color: yellow; height: 100px; width: 100px; padding: 20px; border: 10px solid darkgoldenrod;
+}
+
+.box3 {
+background-color: green; height: 100px; width: 100px; padding: 20px; border: 10px solid darkgreen; 
+ }
+
+.container2{
+    background-color: white; height: 500px; width: 175px;
+    margin-left: 30%; margin-right: 30%; display: flex; justify-content: center; flex-direction: column; align-items: center;
+}
+
+.box4 {
+    background-color: red; height: 100px; width: 100px; padding: 20px; border: 10px solid darkred;
+}
+
+.box4,.box5,.box6 {
+    margin-top: 5px; margin-bottom: 2,5px;
+}
+
+.box5 {
+background-color: yellow; height: 100px; width: 100px; padding: 20px; border: 10px solid darkgoldenrod;
+}
+
+.box6 {
+background-color: green; height: 100px; width: 100px; padding: 20px; border: 10px solid darkgreen; 
+}
+
+.box7 {
+    background-color: rgb(202, 136, 136); height: 20px; width: 90px; padding: 25px; margin: -20px; margin-top: 50px;    
+}
+
+.box8 {
+background-color: rgb(227, 227, 158); height: 30px; width: 30px; padding: 20px; margin: 50px;
+}
+
+.box9 {
+background-color: rgb(129, 176, 129); height: 30px; width: 30px; padding: 20px; margin-left:-20px; margin-top: 50px;
+}
